@@ -32,7 +32,7 @@ Project Structure
 
 This project is maintained in a single GitHub repository. It contains three Spring Boot service projects:
 
-- Staff_Service - The source code is in the "StaffService/" folder.
+- StaffService - The source code is in the "StaffService/" folder.
 - LeaveService - The source code is in the "LeaveService/" folder.
 - AdminService - The source code is in the "AdminService/" folder.
 
