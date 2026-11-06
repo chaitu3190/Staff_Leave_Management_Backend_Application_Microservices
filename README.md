@@ -10,7 +10,7 @@ I have divided the backend into three microservices to keep the different respon
 
 Microservices
 
-1. Staff_Service:
+1. StaffService:
 This service handles staff related operations.
 
 2. LeaveService:
